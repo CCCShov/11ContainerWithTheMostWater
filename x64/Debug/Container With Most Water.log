@@ -1,0 +1,4 @@
+﻿  Container With Most Water.cpp
+C:\Users\chern\source\repos\Container With Most Water\Container With Most Water.cpp(14,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\chern\source\repos\Container With Most Water\Container With Most Water.cpp(15,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Container With Most Water.vcxproj -> C:\Users\chern\source\repos\LeetCode\x64\Debug\Container With Most Water.exe
